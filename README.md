@@ -11,6 +11,8 @@ for the YOLOv4 dataset i used the dataset in here.
 ![image](https://user-images.githubusercontent.com/63866803/182968895-0e34055d-1675-476c-a6eb-df6a91e41a8d.PNG)<br />
 
 # receiving the plate nember we want to find
+<img src="https://user-images.githubusercontent.com/63866803/182971421-4d1f6039-842b-4968-ae05-da781c04260d.PNG" width="600" height="500" ><br />
+
 # searching for the plate 
 <img src="https://user-images.githubusercontent.com/63866803/182969004-84b42641-200e-4cc4-b986-4ecb2fce9bc3.png" width="790" height="400" ><br />
 <img src="https://user-images.githubusercontent.com/63866803/182969108-1f78db02-2294-4ccf-aa80-be7ec1e35820.png" width="300" height="120" ><br />
